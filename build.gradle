@@ -1,0 +1,5 @@
+project.version="0.0.1"
+project.group="de.heisluft"
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
